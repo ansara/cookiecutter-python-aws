@@ -1,6 +1,12 @@
-# Python Best Practices Cookiecutter
+# Python Best Practices Cookiecutter + AWS
+I use this [cookiecutter](https://github.com/audreyr/cookiecutter) to initialize new python projects that include distributed AWS cloud services.
 
-Best practices [cookiecutter](https://github.com/audreyr/cookiecutter) template as described in this [blogpost](https://sourcery.ai/blog/python-best-practices/).
+This cookiecutter is a work in progress. Stay tuned as I add more AWS integration in the future.
+
+
+# Credits
+The base cookiecutter template used in this project is forked from the popular [sourcery-ai/python-best-practices-cookiecutter](https://github.com/sourcery-ai/python-best-practices-cookiecutter). You can check out their work and find further explanation of their cookiecutter best practices rationale [here](https://sourcery.ai/blog/python-best-practices/). Many thanks to them.
+
 
 ## Features
 - Testing with [pytest](https://docs.pytest.org/en/latest/)
@@ -22,7 +28,7 @@ python3 -m pipx ensurepath
 pipx install pipenv
 
 # Use cookiecutter to create project from this template
-pipx run cookiecutter gh:sourcery-ai/python-best-practices-cookiecutter
+pipx run cookiecutter gh:ansara/python-cookiecutter-python-aws
 
 # Enter project directory
 cd <repo_name>
