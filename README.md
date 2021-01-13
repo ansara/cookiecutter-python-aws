@@ -1,7 +1,5 @@
 # Python Best Practices Cookiecutter + AWS
-I use this [cookiecutter](https://github.com/audreyr/cookiecutter) to initialize new python projects that include distributed AWS cloud services. 
-
-This template is a work in progress. Stay tuned as I add more AWS integration and customization.
+I use this [cookiecutter](https://github.com/audreyr/cookiecutter) to initialize new python projects that include distributed AWS cloud services. This template is a work in progress. Stay tuned as I add more AWS integration and customization.
 
 
 # Credits
