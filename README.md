@@ -3,7 +3,7 @@ I use this [cookiecutter](https://github.com/audreyr/cookiecutter) to initialize
 
 
 # Credits
-The base cookiecutter template used in this project is forked from the popular [sourcery-ai/python-best-practices-cookiecutter](https://github.com/sourcery-ai/python-best-practices-cookiecutter). You can check out their work and find further explanation of their cookiecutter best practices rationale [here](https://sourcery.ai/blog/python-best-practices/). Many thanks to them.
+The base cookiecutter template used in this project is forked from the popular [sourcery-ai/python-best-practices-cookiecutter](https://github.com/sourcery-ai/python-best-practices-cookiecutter). You can check out their work and find further explanation of the best practices rationale behind their cookiecutter [here](https://sourcery.ai/blog/python-best-practices/). Many thanks to them.
 
 
 ## Features
